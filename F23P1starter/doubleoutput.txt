@@ -1,0 +1,80 @@
+successfully inserted record with id 1
+id 1 title overview of hci research at vt
+date 0610051600 length 90 x 10 y 10 cost 45
+description this seminar will present an overview of hci research at vt
+keywords hci computer_science vt virginia_tech
+size 173
+insert failed there is already a record with id 1
+insert failed there is already a record with id 1
+insert failed there is already a record with id 1
+insert failed there is already a record with id 1
+successfully inserted record with id 2
+id 2 title overview of hci research at vt
+date 0610051600 length 90 x 10 y 10 cost 45
+description this seminar will present an overview of hci research at vt
+keywords hci computer_science vt virginia_tech
+size 173
+successfully inserted record with id 3
+id 3 title overview of hci research at vt
+date 0610051600 length 90 x 10 y 10 cost 45
+description this seminar will present an overview of hci research at vt
+keywords hci computer_science vt virginia_tech
+size 173
+successfully inserted record with id 4
+id 4 title overview of hci research at vt
+date 0610051600 length 90 x 10 y 10 cost 45
+description this seminar will present an overview of hci research at vt
+keywords hci computer_science vt virginia_tech
+size 173
+successfully inserted record with id 5
+id 5 title overview of hci research at vt
+date 0610051600 length 90 x 10 y 10 cost 45
+description this seminar will present an overview of hci research at vt
+keywords hci computer_science vt virginia_tech
+size 173
+successfully inserted record with id 6
+id 6 title overview of hci research at vt
+date 0610051600 length 90 x 10 y 10 cost 45
+description this seminar will present an overview of hci research at vt
+keywords hci computer_science vt virginia_tech
+size 173
+found record with id 2
+id 2 title overview of hci research at vt
+date 0610051600 length 90 x 10 y 10 cost 45
+description this seminar will present an overview of hci research at vt
+keywords hci computer_science vt virginia_tech
+found record with id 3
+id 3 title overview of hci research at vt
+date 0610051600 length 90 x 10 y 10 cost 45
+description this seminar will present an overview of hci research at vt
+keywords hci computer_science vt virginia_tech
+found record with id 4
+id 4 title overview of hci research at vt
+date 0610051600 length 90 x 10 y 10 cost 45
+description this seminar will present an overview of hci research at vt
+keywords hci computer_science vt virginia_tech
+found record with id 5
+id 5 title overview of hci research at vt
+date 0610051600 length 90 x 10 y 10 cost 45
+description this seminar will present an overview of hci research at vt
+keywords hci computer_science vt virginia_tech
+found record with id 6
+id 6 title overview of hci research at vt
+date 0610051600 length 90 x 10 y 10 cost 45
+description this seminar will present an overview of hci research at vt
+keywords hci computer_science vt virginia_tech
+search failed there is no record with id 7
+found record with id 1
+id 1 title overview of hci research at vt
+date 0610051600 length 90 x 10 y 10 cost 45
+description this seminar will present an overview of hci research at vt
+keywords hci computer_science vt virginia_tech
+search failed there is no record with id 8
+search failed there is no record with id 9
+record with id 1 successfully deleted from the database
+record with id 2 successfully deleted from the database
+record with id 2 successfully deleted from the database
+record with id 3 successfully deleted from the database
+record with id 4 successfully deleted from the database
+record with id 5 successfully deleted from the database
+record with id 5 successfully deleted from the database
